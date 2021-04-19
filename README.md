@@ -5,7 +5,7 @@ Config:
 
 Download service file and set env variable SERVICE_FILE to the path of file
 
-Example 
+Example:
 export SERVICE_FILE="/home/project.json"
 
 Functions available:
